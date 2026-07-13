@@ -42,11 +42,11 @@ The project provides a strong foundation in computer vision and helps understand
 
 ---
 
-# 📸 Project Screenshot
+## 📸 Project Screenshot
 
-https://github.com/harishmaparveen2-source/Computer-Vision-with-OpenCV/blob/e818b81c89c1f097e1cf733752270127ebdb3946/Open%20CV.png
-
----
+<p align="center">
+  <img src="" width="850" alt="OpenCV Image Processing Output">
+</p>
 
 ## 📌 Operations Performed
 
