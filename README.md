@@ -110,4 +110,6 @@ After completing this project, I learned:
 
 **Harishma Parveen**
 
-⭐ If you found this project helpful, don't forget to give it a Star!
+Aspiring Data Analyst | Data Science Enthusiast
+
+##⭐ If you found this project helpful, don't forget to give it a Star!
