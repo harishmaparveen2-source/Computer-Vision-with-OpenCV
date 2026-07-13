@@ -112,4 +112,4 @@ After completing this project, I learned:
 
 Aspiring Data Analyst | Data Science Enthusiast
 
-##⭐ If you found this project helpful, don't forget to give it a Star!
+**⭐ If you found this project helpful, don't forget to give it a Star!**
